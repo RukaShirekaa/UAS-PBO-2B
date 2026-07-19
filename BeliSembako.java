@@ -69,12 +69,12 @@ public class BeliSembako {
                 }
             }
 
-          
+    
             System.out.print("Apakah ingin memproses pelanggan lain? (y/n): ");
             lanjut = input.next().charAt(0);
             
-          
-            input.nextLine(); 
+
+            input.nextLine();
             
             System.out.println("--------------------------------------------------");
 
